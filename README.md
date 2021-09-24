@@ -1,3 +1,12 @@
+
+## `CHANGE SESSION`
+
+1. Put your session here<br/>
+
+[`Click Here`](https://github.com/pandaofa/anjas/blob/master/session.json#L1)
+
+
+
 # ```BOTZ10 LAST```
 
 <p align="center">
